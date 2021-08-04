@@ -108,10 +108,17 @@
         "add_image_padding": false,
         "show_vendor": false
       }
+    },
+    "1628107932953cadc0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "1628107932953cadc0"
   ]
 }
