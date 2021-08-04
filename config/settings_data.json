@@ -22,7 +22,8 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo_width": 100,
+          "logo": "shopify:\/\/shop_images\/logo-min.png",
+          "logo_width": 190,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
@@ -35,7 +36,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "",
               "menu": "footer"
             }
           }
@@ -44,9 +45,9 @@
           "footer-0"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Sign up to our emails",
+          "newsletter_heading": "Sign up for news & special offers:",
           "show_social": false,
           "enable_country_selector": true,
           "enable_language_selector": true,
