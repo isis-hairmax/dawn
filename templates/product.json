@@ -71,6 +71,13 @@
             "page": "",
             "icon": "check_mark"
           }
+        },
+        "ccd6cc36-ce31-416a-b0cb-538a3dd984e0": {
+          "type": "popup",
+          "settings": {
+            "link_label": "Pop-up link text",
+            "page": "before-after"
+          }
         }
       },
       "block_order": [
@@ -84,7 +91,8 @@
         "description",
         "share",
         "8f7b2887-9a14-48a8-9bbd-8a28e32cad0f",
-        "6ba99c5f-8c23-4dd7-9892-42a16e425bfc"
+        "6ba99c5f-8c23-4dd7-9892-42a16e425bfc",
+        "ccd6cc36-ce31-416a-b0cb-538a3dd984e0"
       ],
       "settings": {
         "enable_sticky_info": true,
