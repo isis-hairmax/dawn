@@ -60,7 +60,16 @@
             "heading": "Collapsible tab",
             "content": "<p>What's Included<\/p>",
             "page": "",
-            "icon": "box"
+            "icon": "check_mark"
+          }
+        },
+        "6ba99c5f-8c23-4dd7-9892-42a16e425bfc": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How to Use",
+            "content": "<p>How to Use<\/p>",
+            "page": "",
+            "icon": "check_mark"
           }
         }
       },
@@ -74,7 +83,8 @@
         "buy_buttons",
         "description",
         "share",
-        "8f7b2887-9a14-48a8-9bbd-8a28e32cad0f"
+        "8f7b2887-9a14-48a8-9bbd-8a28e32cad0f",
+        "6ba99c5f-8c23-4dd7-9892-42a16e425bfc"
       ],
       "settings": {
         "enable_sticky_info": true,
