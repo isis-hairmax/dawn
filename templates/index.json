@@ -5,9 +5,8 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": ""
+            "heading": "Hello"
           }
         },
         "button": {
